@@ -4,7 +4,6 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
 import App from './containers/App';
-import { robots } from './robots';
 
 ReactDOM.render(
   <React.StrictMode>
