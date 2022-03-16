@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import 'https://cozmin-ghenea.github.io/humans_card/index.css';
+import './index.css';
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
-import App from 'https://cozmin-ghenea.github.io/humans_card/containers/App';
+import App from './containers/App';
 
 ReactDOM.render(
   <React.StrictMode>
